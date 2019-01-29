@@ -1,2 +1,5 @@
 Apple
 Banana
+
+Ichiko
+Cake
