@@ -6,6 +6,5 @@ Ichiko
 Cake
 A
 C
-D
 E
 G
