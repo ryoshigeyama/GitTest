@@ -9,3 +9,5 @@ C
 E
 G
 Z
+Curry
+Osechi
